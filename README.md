@@ -10,7 +10,7 @@
 <a href="https://instagram.com/azscki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azscki" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azkifairuz&show_icons=true&locale=en&theme=radical" alt="azkifairuz"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azkifairuz&theme=radical&show_icons=true&locale=en" alt="azkifairuz"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azkifairuz&show_icons=true&locale=en&layout=compact" alt="azkifairuz" /></p>
 
 
