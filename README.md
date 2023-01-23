@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm azki</h1>
-<h3 align="center">Empty</h3>
+<h1 >Hi 👋, I'm azki</h1>
+
 
 - 🌱 I’m currently learning **Kotlin,Jetpack Compose,as**
 
