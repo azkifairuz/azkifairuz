@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin,Jetpack Compose**
 
-- 📫 How to reach me **@azscki**
+- 📫 How to reach me **azkiajmal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
