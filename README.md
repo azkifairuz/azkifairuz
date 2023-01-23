@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm azki</h1>
 
 
-- 🌱 I’m currently learning **Kotlin,Jetpack Compose,as**
+- 🌱 I’m currently learning **Kotlin,Jetpack Compose**
 
 - 📫 How to reach me **@azscki**
 
