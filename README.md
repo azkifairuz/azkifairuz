@@ -7,7 +7,7 @@ Github Stat<br>
 ![](https://github-readme-stats.vercel.app/api?username=azkifairuz&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azkifairuz&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azkifairuz&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=azkifairuz&limit=5&theme=react&combine_all_yearly_contributions=true)
+
 
 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="100px"/>
