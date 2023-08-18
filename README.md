@@ -5,12 +5,11 @@
  # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azkifairuz&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-    <p align="left">
+# 📊 GitHub Statistik:
+ <p align="left">
     <a href="https://github.com/azkifairuz">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azkifairuz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azkifairuz&layout=compact&langs_count=8&theme=vue-dark"/>
     </a>
-    </p>
+ </p>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
