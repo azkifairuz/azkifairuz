@@ -8,7 +8,8 @@
 # GitHub Statistik:
  <p align="left">
     <a href="https://github.com/azkifairuz">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azkifairuz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azkifairuz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_rank=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azkifairuz&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
  </p>
+ 
